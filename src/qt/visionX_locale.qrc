@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/visionX_bg.qm</file>
+        <file alias="de">locale/visionX_de.qm</file>
+        <file alias="en">locale/visionX_en.qm</file>
+        <file alias="es">locale/visionX_es.qm</file>
+        <file alias="fi">locale/visionX_fi.qm</file>
+        <file alias="fr">locale/visionX_fr.qm</file>
+        <file alias="it">locale/visionX_it.qm</file>
+        <file alias="ja">locale/visionX_ja.qm</file>
+        <file alias="pl">locale/visionX_pl.qm</file>
+        <file alias="pt">locale/visionX_pt.qm</file>
+        <file alias="ru">locale/visionX_ru.qm</file>
+        <file alias="sk">locale/visionX_sk.qm</file>
+        <file alias="sv">locale/visionX_sv.qm</file>
+        <file alias="vi">locale/visionX_vi.qm</file>
+        <file alias="zh_CN">locale/visionX_zh_CN.qm</file>
+        <file alias="zh_TW">locale/visionX_zh_TW.qm</file>
+    </qresource>
+</RCC>

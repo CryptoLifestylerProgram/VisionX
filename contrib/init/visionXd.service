@@ -1,0 +1,22 @@
+[Unit]
+Description=VisionX's distributed currency daemon
+After=network.target
+
+[Service]
+User=visionXcore
+Group=visionXcore
+
+Type=forking
+PIDFile=/var/lib/visionXd/visionXd.pid
+ExecStart=/usr/bin/visionXd -daemon -pid=/var/lib/visionXd/visionXd.pid \
+-conf=/etc/visionXcore/visionX.conf -datadir=/var/lib/visionXd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

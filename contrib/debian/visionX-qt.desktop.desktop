@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=VisionX
+Comment=VisionX P2P Cryptocurrency
+Exec=visionX-qt %u
+Terminal=false
+Type=Application
+Icon=visionX128
+MimeType=x-scheme-handler/visionX;
+Categories=Office;Finance;
+Name[en_US]=visionX-qt.desktop

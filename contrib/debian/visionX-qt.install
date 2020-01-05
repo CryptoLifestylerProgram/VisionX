@@ -1,0 +1,6 @@
+usr/local/bin/visionX-qt usr/bin
+share/pixmaps/visionX32.xpm usr/share/pixmaps
+share/pixmaps/visionX16.xpm usr/share/pixmaps
+share/pixmaps/visionX128.png usr/share/pixmaps
+debian/visionX-qt.desktop usr/share/applications
+debian/visionX-qt.protocol usr/share/kde4/services/
