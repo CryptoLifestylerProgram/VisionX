@@ -1,4 +1,4 @@
-
+https://medium.com/@nrek/mac-os-x-10-11-ei-capitan%E4%B8%8B%E7%BC%96%E8%AF%91bitcoin%E6%BA%90%E4%BB%A3%E7%A0%81-1a30b8a1bc4a
 VisionX Core 1.0.0
 ===============================
 
